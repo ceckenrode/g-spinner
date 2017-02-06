@@ -4,6 +4,8 @@
 
 ## A jQuery Plugin for Customizable Loaders
 
+![g-spinner](images/g-spinner.gif)
+
 ---
 
 ### Installation
